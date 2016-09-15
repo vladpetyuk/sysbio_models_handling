@@ -14,3 +14,9 @@ Script `parameter_optimization_nonequally_spaced_timepoints.py` performs paramet
 ---
 
 The following steps in the script perform a few transforms to make the data look more like real experimental biological data.
+
+
+## Directory: bistable_switch_limit_point_bifurcation
+[Tellurium](http://tellurium.analogmachine.org/) has a capability for bifuraction analysis. It leverages the (AUTO2000)[https://www.math.auckland.ac.nz/~hinke/dss/continuation/auto.html] tool. An example [script](https://github.com/sys-bio/tellurium-examples/blob/master/bifurcationExample.py) of bifurcation analysis is available at [sys-bio](https://github.com/sys-bio/) repository.
+Output the demo script:
+![example of bifurcation analysis](bifurcation_example1.png)
